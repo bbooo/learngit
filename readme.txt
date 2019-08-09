@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 这是一个新的修改
 这是第二个新的修改
+hello.bobodou
